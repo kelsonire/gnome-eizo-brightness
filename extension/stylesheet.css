@@ -1,0 +1,13 @@
+.eizo-brightness-slider {
+    min-width: 18em;
+}
+
+.eizo-brightness-value {
+    min-width: 4em;
+    text-align: right;
+}
+
+.eizo-brightness-status {
+    max-width: 26em;
+    font-size: 0.9em;
+}

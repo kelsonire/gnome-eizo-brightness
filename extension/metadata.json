@@ -1,0 +1,7 @@
+{
+  "uuid": "eizo-brightness@local",
+  "name": "EIZO Brightness",
+  "description": "Adjust the brightness of EIZO USB monitors from the GNOME top bar.",
+  "shell-version": ["50"],
+  "version": 1
+}

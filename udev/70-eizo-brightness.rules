@@ -1,0 +1,2 @@
+# EV3240X USB HID Monitor. Give the active local desktop user access.
+ACTION!="remove", SUBSYSTEM=="hidraw", ATTRS{idVendor}=="056d", ATTRS{idProduct}=="4081", TAG+="uaccess"
